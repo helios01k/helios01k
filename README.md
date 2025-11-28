@@ -7,3 +7,11 @@
 - I am also working on "SCRAMBLE" to redact faces in realtime on custom-made glasses inspired by the "SCP SCRAMBLE GOGGLES" project.
 
 I like AI. I do not like vibecoding.
+
+
+[LinkedIn](https://linkedin.com/in/adam-bell-ireland) 
+| 
+[Blog](https://hisc.life)
+| 
+**[python, lua, c++, swift, javascript, rust, typescript]**
+
