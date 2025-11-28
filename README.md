@@ -13,5 +13,4 @@ I like AI. I do not like vibecoding.
 | 
 [Blog](https://hisc.life)
 | 
-**[python, lua, c++, swift, javascript, rust, typescript]**
-
+*(lua @ 2018, python @ 2021, html/css @ 2022, javascript @ 2022, c++ @ 2023, c# @ 2023, swift @ 2024, typescript @ 2024, rust @ 2025)*
