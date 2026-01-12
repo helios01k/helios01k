@@ -3,10 +3,9 @@
 
 ## i am helios 👋
 
-- I am currently working on my own linter in **Python**; with some AI features.
-- I am also working on "SCRAMBLE" to redact faces in realtime on custom-made glasses inspired by the "SCP SCRAMBLE GOGGLES" project.
+- I am working on [Pyca Ireland](https://github.com/Pyca-Ireland)
 
-I like AI. Working on computer vision right now.
+I like AI. Working on agentic systems right now.
 
 
 [LinkedIn](https://linkedin.com/in/adam-bell-ireland) 
