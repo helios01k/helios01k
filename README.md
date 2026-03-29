@@ -10,6 +10,6 @@ I like AI. Working on agentic systems right now.
 
 [LinkedIn](https://linkedin.com/in/adam-bell-ireland) 
 | 
-[Blog](https://hisc.life)
+[Blog](https://h1k.sh)
 | 
 *(lua @ 2018, python @ 2021, javascript @ 2022, c++ @ 2023, c# @ 2023, swift @ 2024, typescript @ 2024, rust @ 2025)*
